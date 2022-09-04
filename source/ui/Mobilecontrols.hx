@@ -85,4 +85,3 @@ enum ControlsGroup {
 	VIRTUALPAD_CUSTOM;
 	HITBOX;
 }
-#end
